@@ -32,7 +32,7 @@ ul {
 }
 
 .navbar {
-  background: #000;
+  background-image: linear-gradient(to bottom,#000 90%, rgba(6, 109, 6, 0.685));
   color: #fff;
   height: 60px;
 }
@@ -101,7 +101,7 @@ ul {
 .box {
   /* for them to be even */
   flex: 1;
-  background: #0a51cc;
+  background-image: linear-gradient(to bottom,#000 90%, rgba(6, 109, 6, 0.685));
   color: #fff;
   border-radius: 10px;
   margin: 20px 10px;
